@@ -1,0 +1,22 @@
+.button {
+    background-color: rgb(109, 98, 90);
+    border-color: gray;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+div #content {
+    color: rgb(90, 90, 90);
+    background-color: rgb(232, 232, 232);
+    border-style: black;
+    text-align: center;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+body {
+    margin: 100;
+    padding: 100;
+}
