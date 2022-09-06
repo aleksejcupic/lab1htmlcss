@@ -1,15 +1,18 @@
 .button {
     background-color: rgb(109, 98, 90);
     border-color: gray;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin: auto;
 }
 
-div #content {
-    color: rgb(90, 90, 90);
+div #content :first-child {
+    padding: 20px;
+    background-color: white;
+}
+
+p {
+    padding: 10px;
     background-color: rgb(232, 232, 232);
-    border-style: black;
-    text-align: center;
+    color:rgb(90, 90, 90);
 }
 
 a:hover {
