@@ -2,6 +2,8 @@
     background-color: rgb(109, 98, 90);
     border-color: gray;
     margin: auto;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 div #content :first-child {
